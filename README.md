@@ -1,46 +1,69 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="Letmeask" src="./src/assets/images/logo.svg" width="160px">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="Author" src="https://img.shields.io/badge/Author-Pedro%20L%20S%20Silva-6558c3?style=plastic" />
+	<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/pedrolssilva/LaunchStore?color=6558C3&style=plastic" />
+	<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/pedrolssilva/LaunchStore?color=6558C3&style=plastic" />
+	<img alt="License" src="https://img.shields.io/badge/status-Conclu%C3%ADdo-6558C3?style=plastic" />
+  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
+</p>
 
-## Available Scripts
+<h1 align="center">
+    <img alt="Letmeask" src="./src/assets/images/cover.svg" />
+</h1>
 
-In the project directory, you can run:
+<br>
 
-### `yarn start`
+## 🧪 Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This project was developed with the following technologies:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [React](https://reactjs.org)
+- [Firebase](https://firebase.google.com/) - (Authentication, Realtime Database and Hosting)
+- [TypeScript](https://www.typescriptlang.org/)
 
-### `yarn test`
+## 🚀 How to execute
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+clone the project and access his folder.
 
-### `yarn build`
+```bash
+$ git clone https://github.com/pedrolssilva/LetMeAsk-NLW-6_ReactJS.git
+$ cd LetMeAsk-NLW-6_ReactJS
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To start it, follow the steps underneath:
+```bashRE
+# Install dependencies
+$ yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Start the project
+$ yarn start
+```
+The app will be available in your browser by the address  http://localhost:3000.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Remembering that will be needed to create an account inAnd  [Firebase](https://firebase.google.com/) and a project to provide a Realtime Database.
 
-### `yarn eject`
+## 💻 Project
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Letmeask is perfect for content creators, that can create Q&A rooms with your target public, by an organized and democratic form.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This is a project developed during the **[Next Level Week Together](https://nextlevelweek.com/)**, presented between the days 20 to 27 from June 2021.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🔖 Layout
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+It's possible to see the project layout through the link:
 
-## Learn More
+- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask) 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Remembering that you need to have an account in [Figma](http://figma.com/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📝 License
+
+This project is under the license MIT. See the file [LICENSE](LICENSE.md) for more details.
+
+---
+
+💜 Made by Pedro L. following the instructor's lessons from Rocketseat 👋🏻 [Follow the Rocketseat community](https://discord.gg/gKUVrzrPrU)
